@@ -1,4 +1,4 @@
 baseURL = 'https://flooow.github.io/blog'
 languageCode = 'en-us'
 title = 'Ace of rebase'
-theme = "mainroad"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
