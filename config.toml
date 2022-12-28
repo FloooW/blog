@@ -21,3 +21,7 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
   [params.ananke_socials.github]
   name = "github"
   url = "https://github.com/FloooW"
+
+  [params.ananke_social.linkedin]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/florentlerat/"
